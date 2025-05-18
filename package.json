@@ -1,6 +1,5 @@
 {
     "name": "install-test-10",
     "dependencies": {
-        "esbuild": "0.25.4"
     }
 }
